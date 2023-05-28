@@ -8,8 +8,10 @@ My name is Angelika Demina(She/Her) - I'am a passionate student at School 21(Eco
 <img src="https://icongr.am/devicon/django-original.svg" alt="django" width="50" height="50"/>
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/>
 </p>
+ 
 ### My stats:
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelikaDe&theme=github)
+ 
 ### I love connecting with different people so if you want to say hi, I'll be happy :)
  [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelikademina@yandex.ru)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alcestisAn)
