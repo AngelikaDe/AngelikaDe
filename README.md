@@ -1,5 +1,5 @@
 ### Hey there 👋
-My name is Angelika Demina(She/Her) - I'am a passionate student at School 21(Ecole 42)
+My name is Angelika Demina(She/Her) - I'am a passionate student of School 21(Ecole 42)
 <p align="left">
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="50"/>
 <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="50" height="50"/>
